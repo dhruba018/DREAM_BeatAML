@@ -1,2 +1,3 @@
-# DREAM_BeatAML
-CTD-squared BeatAML DREAM Challenge
+## DREAM_BeatAML
+
+Coding for CTD-squared BeatAML DREAM Challenge
