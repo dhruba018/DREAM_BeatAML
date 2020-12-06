@@ -1,4 +1,4 @@
-## Beat-AML Challange
+## Beat-AML Challenge
 
 Predictive modeling codes for [CTD-squared BeatAML DREAM Challenge](https://www.synapse.org/#!Synapse:syn20940518/wiki/596265). 
 
