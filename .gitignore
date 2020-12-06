@@ -1,7 +1,9 @@
 .ipynb_checkpoints
-.docx
-.zip
-.rar
+*.docx
+*.xlsx
+*.zip
+*.rar
+*.jpg
 Refs
 SC1
 SC2
